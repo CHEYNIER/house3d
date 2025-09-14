@@ -14,7 +14,7 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
       - name: Build APKs (maplibre + gmaps)
-        working-directory: capture-mobile/android-app
+        working-directory: house3d/capture-mobile/android-app
         run: |
           chmod +x ./gradlew || true
           ./gradlew assembleMaplibreDebug assembleGmapsDebug
