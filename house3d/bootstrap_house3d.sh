@@ -329,5 +329,3 @@ jobs:
         with: { name: APKs, path: capture-mobile/android-app/app/build/outputs/apk/**/**.apk }
 EOF
 
-echo "Squelette house3d généré."
-

@@ -1,4 +1,3 @@
-
 # house3d (V1 MVP)
 - App Android (MapLibre par défaut, ARCore, OpenCV)
 - Scripts Nerfstudio/COLMAP + détection des trous
